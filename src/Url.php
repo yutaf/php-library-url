@@ -2,9 +2,9 @@
 
 /**
  * Class Url
- *
- * @author Yuta Fujishiro<yutafuji2008@gmail.com>
  */
+namespace Yutaf;
+
 class Url
 {
     /**
